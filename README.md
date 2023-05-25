@@ -1,6 +1,5 @@
 # JetRacer
 
-
 ### Requirements
 * Jetson Nano 2GB Developer Kit
 * Jetracer
@@ -41,4 +40,5 @@ sudo reboot
 
 ### Demo
 
+![jetson_run](https://github.com/e-LENS/JetRacer/assets/79262676/e540748a-779b-4d91-bfcd-c940c4d1ff3c)
 
