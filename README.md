@@ -1,25 +1,13 @@
 # JetRacer
 
-### Environment Setting
 
-### How to use
-
-1. Connect to wireless network in Jetson Nano & your computer
-2. Access Jupyter Notebook by http://172.20.10.10:8888/
-3. Execute JetsonRun.ipynb 
-4. 
-
-### Demo
-
-# Hardware
-
-## Requirements
+### Requirements
 * Jetson Nano 2GB Developer Kit
 * Jetracer
 * micro SD card (64GB~)
 * balenaEtcher
 
-## Installation
+### Installation
 
 1. 사용할 micro SD card 포맷
 2. Jetson Nano Image
@@ -34,7 +22,7 @@
 (+)
 * GUI가 비활성화 되어있다면 `sudo systemctl set-default graphical.target` command 실행
 
-## Connect to JetRacer
+### Connect to JetRacer
 
 1. WIFI에 JetRacer 연결
 2. Jetson Nano의 piOLED 또는 `ifconfig` command 로 Wlan0 interface의 ip address 확인
@@ -48,3 +36,9 @@ git checkout master
 sudo python3 setup.py install
 sudo reboot
 ```
+
+### Settings
+
+### Demo
+
+
