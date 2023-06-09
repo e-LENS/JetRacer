@@ -57,5 +57,5 @@ sudo reboot
 
 ### Demo
 
-<p align="center"><img src="https://github.com/e-LENS/JetRacer/assets/79262676/e540748a-779b-4d91-bfcd-c940c4d1ff3c"></p>
+<p align="center"><img src="https://github.com/e-LENS/JetRacer/assets/79262676/b09d9908-13cf-4824-b67c-3cdc627431f4"></p>
 
