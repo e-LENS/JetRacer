@@ -36,7 +36,24 @@ sudo python3 setup.py install
 sudo reboot
 ```
 
-### Settings
+### Load trained model
+
+**Upload mean image** 
+
+`/datasets/mean_image.npy`
+
+**Upload trained model** 
+
+`/checkpoints/resnet18.pth`
+
+### Run
+
+`JetRacerRun.ipynb`
+
+1. Import nvidia_racecar, csi_camera by `Cell 1`
+2. Create & load model by `Cell 4`
+3. Read image from the camera, preprocess the image
+4. Compute current pose using your model
 
 ### Demo
 
