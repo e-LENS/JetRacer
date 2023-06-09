@@ -2,7 +2,10 @@
 
 ### Requirements
 * Jetson Nano 2GB Developer Kit
+  *  GPU : 128-core NVIDIA Maxwell architecture GPU
+  *  CPU : Quad-core ARM® Cortex®-A57 MPCore processor
 * Jetracer
+  * Cam : Sony IMX219 Sensor, 해상도 : 3280 x 2464  
 * micro SD card (64GB~)
 * balenaEtcher
 
